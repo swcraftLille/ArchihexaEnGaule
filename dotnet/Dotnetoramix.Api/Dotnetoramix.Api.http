@@ -1,0 +1,6 @@
+@Dotnetoramix.Api_HostAddress = http://localhost:5229
+
+GET {{Dotnetoramix.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

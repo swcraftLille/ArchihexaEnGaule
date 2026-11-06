@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Dotnetoramix.Api/Dotnetoramix.Api.csproj" />
+  <Project Path="Dotnetoramix.Domain/Dotnetoramix.Domain.csproj" />
+  <Project Path="Dotnetoramix.Infrastructure/Dotnetoramix.Infrastructure.csproj" />
+  <Project Path="Dotnetoramix.Tests/Dotnetoramix.Tests.csproj" />
+</Solution>
